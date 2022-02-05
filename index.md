@@ -6,4 +6,4 @@ provided by yours truly, **Ethan Pinson**
 
 ### Vocab
 
-<iframe src="https://quizlet.com/665330180/flashcards/embed?i=367bf7&x=1jj1" height="500" width="100%" style="border:0"></iframe>
+<iframe src="https://quizlet.com/665330180/flashcards/embed?i=367bf7&x=1jj1" height="100%" width="100%" style="border:0"></iframe>
