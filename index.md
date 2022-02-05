@@ -1,6 +1,6 @@
 # 8th Grade Lousiana History Quizlets
 
-provided by yours truly, **Ethan Pinson**
+provided by yours truly
 
 ## Chapter 12: A New Era
 
