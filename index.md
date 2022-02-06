@@ -10,9 +10,9 @@ no vocab yet :(
 
 ## Chapter 12: A New Era
 
-> Chapter Test: **Friday, February 11th, 2022**
->
-> Vocab Test: **Friday, February 4th, 2022**
+Chapter Test: **Friday, February 11th, 2022**
+
+Vocab Test: **Friday, February 4th, 2022**
 
 ### Vocab
 
