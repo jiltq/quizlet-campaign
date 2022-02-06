@@ -14,8 +14,8 @@ no vocab yet :(
 
 > Chapter Test: **Friday, February 11th, 2022**
 
-### Vocab
+> Vocab Test: **Friday, February 4th, 2022**
 
-Vocab test: **Friday, February 4th, 2022**
+### Vocab
 
 <iframe src="https://quizlet.com/665330180/flashcards/embed?i=367bf7&x=1jj1" height="500" width="100%" style="border:0"></iframe>
