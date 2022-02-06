@@ -4,7 +4,9 @@
 
 ### Vocab
 
-<iframe src="https://quizlet.com/667050863/flashcards/embed" height="500" width="100%" style="border:0"></iframe>
+[](https://quizlet.com/667050863/flashcards/embed?i=367bf7&x=1jj1 ':include :type=iframe width=100% height=500ppx')
+
+<iframe src="https://quizlet.com/667050863/flashcards/embed?i=367bf7&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 ---
 
