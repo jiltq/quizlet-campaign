@@ -4,8 +4,6 @@
 
 ### Vocab
 
-Vocab test: **idk**
-
 no vocab yet :(
 
 ---
