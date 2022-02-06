@@ -4,7 +4,7 @@
 
 ### Vocab
 
-no vocab yet :(
+<iframe src="https://quizlet.com/667050863/flashcards/embed?i=367bf7&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 ---
 
