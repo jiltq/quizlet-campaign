@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quizlet-campaign/static/css/main.a12ff4a9.chunk.css",
+    "main.js": "/quizlet-campaign/static/js/main.8c3c18db.chunk.js",
+    "main.js.map": "/quizlet-campaign/static/js/main.8c3c18db.chunk.js.map",
+    "runtime-main.js": "/quizlet-campaign/static/js/runtime-main.5b14adce.js",
+    "runtime-main.js.map": "/quizlet-campaign/static/js/runtime-main.5b14adce.js.map",
+    "static/js/2.cf136e1b.chunk.js": "/quizlet-campaign/static/js/2.cf136e1b.chunk.js",
+    "static/js/2.cf136e1b.chunk.js.map": "/quizlet-campaign/static/js/2.cf136e1b.chunk.js.map",
+    "index.html": "/quizlet-campaign/index.html",
+    "precache-manifest.0b08bdbdf82896dcd1f2378c562bc0b4.js": "/quizlet-campaign/precache-manifest.0b08bdbdf82896dcd1f2378c562bc0b4.js",
+    "service-worker.js": "/quizlet-campaign/service-worker.js",
+    "static/css/main.a12ff4a9.chunk.css.map": "/quizlet-campaign/static/css/main.a12ff4a9.chunk.css.map",
+    "static/js/2.cf136e1b.chunk.js.LICENSE.txt": "/quizlet-campaign/static/js/2.cf136e1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b14adce.js",
+    "static/js/2.cf136e1b.chunk.js",
+    "static/css/main.a12ff4a9.chunk.css",
+    "static/js/main.8c3c18db.chunk.js"
+  ]
+}
